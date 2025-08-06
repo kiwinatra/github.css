@@ -3,6 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Minified Size](https://img.shields.io/badge/size-2.5KB-green)
 
+### Usage:
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kiwinatra/github.css/github.min.css">
+```
+
 A minimal CSS library that mimics GitHub's clean interface styling. Perfect for creating GitHub-like documentation, dashboards, or admin panels.
 
 ## Features
